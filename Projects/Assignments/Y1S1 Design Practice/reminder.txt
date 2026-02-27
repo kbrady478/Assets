@@ -1,0 +1,2 @@
+panel set up for 16:9 aspect ratio as in assignment spec
+drag in skyline silhouettes, dupe base panel and pull forward, shape/knife new panel to skyline, repeat for a few layers

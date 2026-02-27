@@ -1,0 +1,17 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+a6a1a682-5968-4800-a327-d17775b1f9c9:ZenShaders:ZenShaders
+84771012-a17e-4ff1-908e-a8ab5d45fceb:ZenShaders/Textures:ZenShaders-Textures
+5b7cf52d-b245-4c6d-b3eb-ded5f04f09ef:ZenShaders/Textures/Stylized:ZenShaders-Textures-Stylized
+4d550c3b-98a6-4305-8ad0-c2244730bb79:ZenShaders/Textures/Stylized/Grunge:ZenShaders-Textures-Stylized-Grunge
+755a8f1c-0725-45eb-a300-f4ceccce1b29:ZenShaders/Textures/Stylized/Grunge/Stylized Leaks:ZenShaders-Textures-Stylized-Grunge-Stylized Leaks
+0c2f87c7-3595-4517-bd45-79530f59e48e:ZenShaders/Textures/Stylized/Grunge/Stylized Leaks/Stylized Group Leak:...-Textures-Stylized-Grunge-Stylized Leaks-Stylized Group Leak
+e21a335a-d07a-4710-ba17-098141ec2b40:ZenShaders/Textures/Stylized/Grunge/Stylized Leaks/Stylized_Leak:...haders-Textures-Stylized-Grunge-Stylized Leaks-Stylized_Leak
+7bdf6a5a-ebfc-4d17-98c7-89294e156564:ZenShaders/Textures/Stylized/Grunge/Stylized Painterly Grunge:ZenShaders-Textures-Stylized-Grunge-Stylized Painterly Grunge
+1d0eca11-8be0-4746-af14-8ba09287b9a5:ZenShaders/Textures/Stylized/Grunge/Stylized Spots:ZenShaders-Textures-Stylized-Grunge-Stylized Spots

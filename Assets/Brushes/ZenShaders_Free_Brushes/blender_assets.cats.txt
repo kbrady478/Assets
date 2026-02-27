@@ -1,0 +1,56 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+4d7a3f50-6b95-4d51-a5b9-14b70e7d4519:Brushes:Brushes
+8ce1a0c6-e3b6-4587-98bd-7186be9cbe45:Brushes/Mesh Sculpt:Brushes-Mesh Sculpt
+02f781f0-17da-4dd3-8738-723eeb3d204d:Brushes/Mesh Sculpt/General:Brushes-Mesh Sculpt-General
+777ffbec-3ccb-422c-afbe-6ba468ad56ab:Brushes/Mesh Sculpt/General/Add & Subtract:Brushes-Mesh Sculpt-General-Add & Subtract
+a1a04c76-bc78-4c2e-9c53-c7fd9eb12154:ZenShaders:ZenShaders
+be750f03-a954-4213-b15b-a61bab084ebf:ZenShaders/Sculpt Brushes:ZenShaders-Sculpt Brushes
+d41221b9-f8e2-4942-9365-bb55012a6151:ZenShaders/Sculpt Brushes/Skin:ZenShaders-Sculpt Brushes-Skin
+8858c306-4936-4ec4-ac41-68d25f83a177:ZenShaders/Sculpt Brushes/Skin/Creature:ZenShaders-Sculpt Brushes-Skin-Creature
+7fb5c645-0732-46a0-a8c7-f9b9e17349d8:ZenShaders/Sculpt Brushes/Skin/Creature/Creature Annelids:ZenShaders-Sculpt Brushes-Skin-Creature-Creature Annelids
+5e2d7a16-7cfb-440c-b6c0-5c3f758350f6:ZenShaders/Sculpt Brushes/Skin/Creature/Creature Exoskeleton:ZenShaders-Sculpt Brushes-Skin-Creature-Creature Exoskeleton
+babec378-8a45-403c-b32c-6eae41e53f4b:ZenShaders/Sculpt Brushes/Skin/Creature/Creature Scales:ZenShaders-Sculpt Brushes-Skin-Creature-Creature Scales
+e406d28d-19b5-4440-8fe5-2184b34232b6:ZenShaders/Sculpt Brushes/Skin/Creature/Creature Skin:ZenShaders-Sculpt Brushes-Skin-Creature-Creature Skin
+23648a05-7f42-4114-a8c3-759e31613039:ZenShaders/Sculpt Brushes/Skin/Human:ZenShaders-Sculpt Brushes-Skin-Human
+c29f86aa-8ef6-4414-a765-71b9669c0377:ZenShaders/Sculpt Brushes/Skin/Human/Human Skin Bumps:ZenShaders-Sculpt Brushes-Skin-Human-Human Skin Bumps
+5ada1037-ebc9-45b3-8515-0f866fd5cabc:ZenShaders/Sculpt Brushes/Skin/Human/Human Skin Pores:ZenShaders-Sculpt Brushes-Skin-Human-Human Skin Pores
+d7883c5a-2eb6-4683-bc78-80c20ee54b8e:ZenShaders/Sculpt Brushes/Skin/Human/Human Skin Pores/Human Por:...Shaders-Sculpt Brushes-Skin-Human-Human Skin Pores-Human Por
+513ad60b-4156-4ac3-a30e-bdf2562d76c5:ZenShaders/Sculpt Brushes/Skin/Human/Skin Bumps:ZenShaders-Sculpt Brushes-Skin-Human-Skin Bumps
+cce97707-1437-4075-9cf3-1ff7279357ff:ZenShaders/Sculpt Brushes/Skin/Human/Skin Pores:ZenShaders-Sculpt Brushes-Skin-Human-Skin Pores
+6667c893-7411-46a2-92a2-ee5aa50a3927:ZenShaders/Sculpt Brushes/Skin/Human/Skin Pores/Circular Pores:ZenShaders-Sculpt Brushes-Skin-Human-Skin Pores-Circular Pores
+cafde034-2d4a-4ec7-b52f-7639463be6e6:ZenShaders/Sculpt Brushes/Skin/Human/Skin Pores/Elongated Pores:...Shaders-Sculpt Brushes-Skin-Human-Skin Pores-Elongated Pores
+75a67807-a2f9-4a2e-a3fd-5b5a1b819910:ZenShaders/Sculpt Brushes/Skin/Human/Skin Veins:ZenShaders-Sculpt Brushes-Skin-Human-Skin Veins
+6e1bd4e4-8f75-46d1-a70c-ac1d7738062c:ZenShaders/Sculpt Brushes/Skin/Human/Skin Wrinkles:ZenShaders-Sculpt Brushes-Skin-Human-Skin Wrinkles
+a280c032-d4c5-486e-a9f4-d2ee80d9f9ed:ZenShaders/Sculpt Brushes/Skin/Human/Zombie:ZenShaders-Sculpt Brushes-Skin-Human-Zombie
+5bbf01f4-62ee-4cee-b644-e21e27b6fd74:ZenShaders/Sculpt Brushes/Skin/Human/Zombie/Zombie Cuts:ZenShaders-Sculpt Brushes-Skin-Human-Zombie-Zombie Cuts
+72fabdb1-b4f6-4630-9a53-12b5d48dc3a6:ZenShaders/Sculpt Brushes/Skin/Zombie:ZenShaders-Sculpt Brushes-Skin-Zombie
+68ab0bd9-338b-4776-9ab5-12fb20410692:ZenShaders/Sculpt Brushes/Skin/Zombie/Zombie Cuts:ZenShaders-Sculpt Brushes-Skin-Zombie-Zombie Cuts
+436f63ec-9735-48dc-9ccb-830810b3bcb3:ZenShaders/Sculpt Brushes/Skin/Zombie/Zombie Drip:ZenShaders-Sculpt Brushes-Skin-Zombie-Zombie Drip
+a4331f5e-1ab8-4445-be0b-01f2cc84c745:ZenShaders/Sculpt Brushes/Skin/Zombie/Zombie Holes:ZenShaders-Sculpt Brushes-Skin-Zombie-Zombie Holes
+7465f127-9a0a-4faf-bafe-5bcbe205bcde:ZenShaders/Sculpt Brushes/Skin/Zombie/Zombie Larvaes:ZenShaders-Sculpt Brushes-Skin-Zombie-Zombie Larvaes
+e54d0c1f-91dc-4ca4-8721-ca3b0e773a65:ZenShaders/Sculpt Brushes/Skin/Zombie/Zombie Pustules:ZenShaders-Sculpt Brushes-Skin-Zombie-Zombie Pustules
+4b763a18-f145-4b7b-90b9-e2f74e3d39a2:ZenShaders/Sculpt Brushes/Skin/Zombie/Zombie Scars:ZenShaders-Sculpt Brushes-Skin-Zombie-Zombie Scars
+2ee9294a-21ae-4e6e-902a-096a0a53d292:ZenShaders/Sculpt Brushes/Skin/Zombie/Zombie Skin:ZenShaders-Sculpt Brushes-Skin-Zombie-Zombie Skin
+856b578e-a6f9-4cf6-8e4a-c9401d0dc911:ZenShaders/Sculpt Brushes/Skin/Zombie/Zombie Stitches:ZenShaders-Sculpt Brushes-Skin-Zombie-Zombie Stitches
+39cb4d80-895c-4efd-9a4f-613d0aba33f4:ZenShaders/Sculpt Brushes/Skin/Zombie/Zombie Tissues:ZenShaders-Sculpt Brushes-Skin-Zombie-Zombie Tissues
+b8f2c69c-7b73-4cbd-94ce-65fe0b92953e:ZenShaders/Sculpt Brushes/Skin/Zombie/Zombie Wounds:ZenShaders-Sculpt Brushes-Skin-Zombie-Zombie Wounds
+b65fc1ae-c2de-4008-8631-1e76d5deb9ff:ZenShaders/Sculpt Brushes/Stylized:ZenShaders-Sculpt Brushes-Stylized
+506f6317-8de7-430d-a58c-807ae77a4daa:ZenShaders/Sculpt Brushes/Stylized/Bolts & Screws:ZenShaders-Sculpt Brushes-Stylized-Bolts & Screws
+f32564ec-4f4f-4db1-bc54-8268f32672bb:ZenShaders/Sculpt Brushes/Stylized/Buttons:ZenShaders-Sculpt Brushes-Stylized-Buttons
+a29683d5-30bc-4247-8685-40b33b2493f8:ZenShaders/Sculpt Brushes/Stylized/Cracks:ZenShaders-Sculpt Brushes-Stylized-Cracks
+befb4d9c-8fec-490d-8091-a0af6589ee13:ZenShaders/Sculpt Brushes/Stylized/Creature:ZenShaders-Sculpt Brushes-Stylized-Creature
+363787ee-027f-42b4-925e-bde6c474c2c3:ZenShaders/Sculpt Brushes/Stylized/Damage:ZenShaders-Sculpt Brushes-Stylized-Damage
+8843a1c7-d903-44c5-afb4-9964ae6de32a:ZenShaders/Sculpt Brushes/Stylized/Folds & Wrinkles:ZenShaders-Sculpt Brushes-Stylized-Folds & Wrinkles
+2657f099-7844-483b-8b5b-3b37944c4bd2:ZenShaders/Sculpt Brushes/Stylized/Fur & Hair:ZenShaders-Sculpt Brushes-Stylized-Fur & Hair
+d9241300-d1b5-46f6-94f7-0dfb19828a47:ZenShaders/Sculpt Brushes/Stylized/Metal:ZenShaders-Sculpt Brushes-Stylized-Metal
+72f867c7-935b-46e3-b9f3-0968a1fb5da2:ZenShaders/Sculpt Brushes/Stylized/Rocks:ZenShaders-Sculpt Brushes-Stylized-Rocks
+ec76a5dd-75c8-44e9-8c12-173353fc0e74:ZenShaders/Sculpt Brushes/Stylized/Seams & Stitches:ZenShaders-Sculpt Brushes-Stylized-Seams & Stitches
+49f5f5b8-8110-4fc0-ac9f-d5ce8bcf4e42:ZenShaders/Sculpt Brushes/Stylized/Wood:ZenShaders-Sculpt Brushes-Stylized-Wood
+

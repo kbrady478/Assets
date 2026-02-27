@@ -1,0 +1,23 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+ad58b17b-477a-41c1-acf1-98d35d9f2afd:ZenShaders:ZenShaders
+557f83b6-ef3c-42c7-8c4e-b07ca175b155:ZenShaders/Materials:ZenShaders-Materials
+956ef93d-1569-4df4-8d62-0658a7a0902b:ZenShaders/Materials/Stylized:ZenShaders-Materials-Stylized
+4a18a6ac-7481-4236-b270-2cab6a983883:ZenShaders/Materials/Stylized/Bricks Wall:ZenShaders-Materials-Stylized-Bricks Wall
+4b1a2067-5f73-4458-8eee-a7bef1063ac6:ZenShaders/Materials/Stylized/Cobblestone:ZenShaders-Materials-Stylized-Cobblestone
+e5e30673-227c-485d-b891-892b7b7e5296:ZenShaders/Materials/Stylized/Dirt Ground:ZenShaders-Materials-Stylized-Dirt Ground
+5b061ac6-212c-432b-997e-f4df94b6a3de:ZenShaders/Materials/Stylized/Grass:ZenShaders-Materials-Stylized-Grass
+4ba22db8-d9d6-4a69-9e33-5cbf3acf8413:ZenShaders/Materials/Stylized/Metals:ZenShaders-Materials-Stylized-Metals
+2c914f0a-3fd6-477f-a655-f5c436a549f0:ZenShaders/Materials/Stylized/Metals/Metal Surface:ZenShaders-Materials-Stylized-Metals-Metal Surface
+204cf750-17e0-481e-a444-053b2600b59b:ZenShaders/Materials/Stylized/Roof Tiles:ZenShaders-Materials-Stylized-Roof Tiles
+18e69c2b-e862-416b-ad13-d6ecf8e91d8b:ZenShaders/Materials/Stylized/Tiles:ZenShaders-Materials-Stylized-Tiles
+99b9ebe9-4fd7-4f9b-b615-98f555c0c579:ZenShaders/Materials/Stylized/Tree Bark:ZenShaders-Materials-Stylized-Tree Bark
+20d60bb6-3a0b-4796-ba75-7501d991719d:ZenShaders/Materials/Stylized/Wood:ZenShaders-Materials-Stylized-Wood
+da60e129-dc7d-45e3-835f-951e619782ea:ZenShaders/Materials/Stylized/Wood/Wood Floor:ZenShaders-Materials-Stylized-Wood-Wood Floor
+d42ef939-5ccd-4b33-9beb-3be3482c37cc:ZenShaders/Materials/Stylized/Wood/Wood Planks:ZenShaders-Materials-Stylized-Wood-Wood Planks

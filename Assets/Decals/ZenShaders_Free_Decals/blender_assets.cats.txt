@@ -1,0 +1,16 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+e3d98deb-8795-4e77-b42c-b458276096ed:ZenShaders:ZenShaders
+ac847c9f-8a29-4066-8ae2-e73614a6ddb3:ZenShaders/Decals:ZenShaders-Decals
+e4c10e2f-b02c-42d3-9946-af4ea5e2a6f6:ZenShaders/Decals/Rocks:ZenShaders-Decals-Rocks
+88aa8147-8b7d-40f8-85f4-9df9b9972f35:ZenShaders/Decals/Rocks/Rock Single:ZenShaders-Decals-Rocks-Rock Single
+2356add4-3e37-4796-b7e2-403a700ba248:ZenShaders/Decals/Stylized:ZenShaders-Decals-Stylized
+6e97f7d1-ea06-4113-b462-ac485c4a81f4:ZenShaders/Decals/Stylized/Bricks:ZenShaders-Decals-Stylized-Bricks
+0c09200e-8f71-4cb2-b5b6-cbb72c5a6f38:ZenShaders/Decals/Stylized/Plants:ZenShaders-Decals-Stylized-Plants
+be861a3d-66cc-4dd4-838a-dce9f4429e53:ZenShaders/Decals/Stylized/Plants/Leaves:ZenShaders-Decals-Stylized-Plants-Leaves
